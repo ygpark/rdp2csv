@@ -1,0 +1,5 @@
+& ".\parse1_Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.ps1"
+& ".\parse2_Microsoft-Windows-TerminalServices-RDPClient%4Operational.ps1"
+& ".\parse3_Microsoft-Windows-RemoteDesktopServices-RdpCoreTS%4Operational.ps1"
+& ".\parse4_Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.ps1"
+& ".\parse5_Security.ps1"
